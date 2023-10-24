@@ -1,7 +1,0 @@
-com\student\student\services\StudentService.class
-com\student\student\StudentApplication.class
-com\student\student\controllers\StudentExceptionHandler.class
-com\student\student\models\Student.class
-com\student\student\exceptions\StudentNotFoundException.class
-com\student\student\controllers\StudentController.class
-com\student\student\repositories\StudentRepository.class
